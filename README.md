@@ -1,0 +1,1 @@
+This Project is a solution for farmers to list their farm produce direct to app and generate more profit, avoiding middlemen who are getting most of profit, and constumers can buy from it.# PurelyFarm
