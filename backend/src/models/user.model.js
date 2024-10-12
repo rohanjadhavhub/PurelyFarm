@@ -35,6 +35,10 @@ const userSchema = new Schema(
             type: String,
             required: [true, 'Password is required']
         },
+        avatar: {
+            type: String, // cloudinary url
+            required: true,
+        },
         role: {
             type: String,
             enum: ['consumer', 'farmer', 'admin'], // Three roles: consumer, farmer, admin
